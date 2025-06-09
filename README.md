@@ -1,6 +1,6 @@
 📋 VIEW PULL REQUESTS TO EXPLORE COMPONENTS AND LIVE DEMONSTRATIONS 📋
-Please navigate to the Pull Requests tab above to access the code, documentation, and live demonstrations of each component.
-Important: The components in this repository are compartmentalized extracts from the larger Iris platform and will not execute if downloaded and run locally. The Pull Requests video demos how each component functions in practice.
+Please navigate to the Pull Requests tab above to access the code, documentation, and demonstrations of each component.
+Important: The components in this repository are compartmentalized extracts from the larger Iris platform and will not execute if downloaded and run locally. The Pull Requests have video demos that show how each component functions in practice.
 
 Iris - Invoice Intelligence Components
 A curated collection of React Native components developed for Iris, an invoice scanning platform designed to empower restaurant owners with data-driven purchasing insights. Similar to how Glassdoor provides salary transparency in the employment market, Iris analyzes supplier invoices to reveal comprehensive market pricing trends, enabling restaurants to negotiate more effectively with their vendors.
